@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kefirtest/static/css/main.964fdded.css",
+    "main.js": "/kefirtest/static/js/main.0ae6197b.js",
+    "static/media/han-solo.jpg": "/kefirtest/static/media/han-solo.84705bac66e252072c67.jpg",
+    "index.html": "/kefirtest/index.html",
+    "main.964fdded.css.map": "/kefirtest/static/css/main.964fdded.css.map",
+    "main.0ae6197b.js.map": "/kefirtest/static/js/main.0ae6197b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.0ae6197b.js"
+  ]
+}
